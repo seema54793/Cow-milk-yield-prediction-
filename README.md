@@ -1,5 +1,7 @@
 # Cow-milk-yield-prediction-
 prediction of Cow's Milk using machine learning (PyCaret : Anatomy of Regression)
+
+Some of the features that the dataset contain are as :
  ~ AFC (age at first Calving)
  ~ FSP (first service period)
  ~ FDP (first dry period)
